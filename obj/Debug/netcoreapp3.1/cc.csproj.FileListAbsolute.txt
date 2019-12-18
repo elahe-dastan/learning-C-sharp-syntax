@@ -1,0 +1,11 @@
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc.deps.json
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc.runtimeconfig.json
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc.runtimeconfig.dev.json
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc.dll
+/home/raha/Desktop/cc/bin/Debug/netcoreapp3.1/cc.pdb
+/home/raha/Desktop/cc/obj/Debug/netcoreapp3.1/cc.csprojAssemblyReference.cache
+/home/raha/Desktop/cc/obj/Debug/netcoreapp3.1/cc.AssemblyInfoInputs.cache
+/home/raha/Desktop/cc/obj/Debug/netcoreapp3.1/cc.AssemblyInfo.cs
+/home/raha/Desktop/cc/obj/Debug/netcoreapp3.1/cc.dll
+/home/raha/Desktop/cc/obj/Debug/netcoreapp3.1/cc.pdb
