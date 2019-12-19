@@ -1,0 +1,11 @@
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda.deps.json
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda.runtimeconfig.json
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda.runtimeconfig.dev.json
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda.dll
+/home/raha/Desktop/lambda/bin/Debug/netcoreapp3.1/lambda.pdb
+/home/raha/Desktop/lambda/obj/Debug/netcoreapp3.1/lambda.csprojAssemblyReference.cache
+/home/raha/Desktop/lambda/obj/Debug/netcoreapp3.1/lambda.AssemblyInfoInputs.cache
+/home/raha/Desktop/lambda/obj/Debug/netcoreapp3.1/lambda.AssemblyInfo.cs
+/home/raha/Desktop/lambda/obj/Debug/netcoreapp3.1/lambda.dll
+/home/raha/Desktop/lambda/obj/Debug/netcoreapp3.1/lambda.pdb
